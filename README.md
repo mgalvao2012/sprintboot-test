@@ -11,10 +11,13 @@ Para executar:
 -   mvn spring-boot:run
 
 Para testar:
-http://localhost:8080
+
+-   http://localhost:8080
 
 Resultado esperado:
 Hello World!
 
-http://localhost:8080/data
+-   http://localhost:8080/data
+
+Resultado esperado:
 {"key1":"value1","key2":"value2"}
